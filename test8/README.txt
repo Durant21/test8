@@ -10,6 +10,6 @@ Getting Started
 
 - $VENV/bin/pserve development.ini
 
+PyCharm 2019.1
 Project originates on the Latitude Ubuntu laptop.
-
 This project contains the venv setup.
