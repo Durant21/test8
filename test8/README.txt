@@ -10,3 +10,6 @@ Getting Started
 
 - $VENV/bin/pserve development.ini
 
+Project originates on the Latitude Ubuntu laptop.
+
+This project contains the venv setup.
